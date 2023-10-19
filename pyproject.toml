@@ -8,9 +8,6 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 toml = "*"
-packages = [
-    { include = "test_poetry" }
-]
 
 
 [build-system]
