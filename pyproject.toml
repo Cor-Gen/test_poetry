@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "montest"
+name = "test_poetry"
 version = "0.1.0"
 description = ""
 authors = ["Corentin"]
