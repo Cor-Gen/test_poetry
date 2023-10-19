@@ -8,10 +8,6 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 toml = "*"
-packages = [
-    { include = "hello.py" },
-    { include = "test_poetry/hello_world.py" },
-]
 
 [build-system]
 requires = ["poetry-core"]
